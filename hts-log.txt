@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Nov 2022 11:30:50 at https://affiliate.jamaykaa.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://affiliate.jamaykaa.com/ -O1 "C:\Users\shaer fawzy\Desktop\111\Elkayan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:30:51	Warning: 	Found for https://affiliate.jamaykaa.com/
+11:30:51	Warning: 	File has moved from https://affiliate.jamaykaa.com/ to https://affiliate.jamaykaa.com/login
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/summernote/summernote.eot (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/summernote/summernote.eot? (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/summernote/summernote.woff2 (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/summernote/summernote.woff (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/summernote/summernote.ttf (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-brands-400.eot (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-brands-400.eot? (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-brands-400.woff2 (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-brands-400.woff (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-brands-400.ttf (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-brands-400.svg (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-regular-400.eot (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-regular-400.eot? (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-regular-400.woff2 (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-regular-400.woff (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-regular-400.ttf (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-regular-400.svg (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-solid-900.eot (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-solid-900.eot? (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-solid-900.woff2 (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-solid-900.woff (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-solid-900.ttf (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/line-awesome/la-solid-900.svg (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon/Flaticon.eot (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon/Flaticon.eot? (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon/Flaticon.woff (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon/Flaticon.ttf (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon/Flaticon.svg (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon2/Flaticon2.eot (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon2/Flaticon2.eot? (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon2/Flaticon2.woff (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon2/Flaticon2.ttf (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/flaticon2/Flaticon2.svg (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/socicon/socicon.eot (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/socicon/socicon.eot? (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/socicon/socicon.woff (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/socicon/socicon.ttf (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+11:31:17	Error: 	"Not Found" (404) at link https://affiliate.jamaykaa.com/admin/plugins/global/fonts/socicon/socicon.svg (from https://affiliate.jamaykaa.com/admin/plugins/global/plugins.bundle.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 seconds : 88 links scanned, 48 files written (11156067 bytes overall) [3548585 bytes received at 126735 bytes/sec], 9676201 bytes transferred using HTTP compression in 65 files, ratio 20%, 17.6 requests per connection
+(38 errors, 2 warnings, 0 messages)
